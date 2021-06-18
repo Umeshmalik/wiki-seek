@@ -1,0 +1,8 @@
+input{
+    padding: 1%;
+    width: 40%;
+    font-size: medium; 
+}
+input:focus{
+    box-shadow: orange;
+}

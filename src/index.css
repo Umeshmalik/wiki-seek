@@ -1,5 +1,9 @@
 body {
   margin: 0;
+  background-image: url(https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png);
+  background-blend-mode: color-dodge;
+  background-repeat: no-repeat;
+  background-position: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

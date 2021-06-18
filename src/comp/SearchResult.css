@@ -1,0 +1,16 @@
+body{
+    height: fit-content;
+    color: blueviolet;
+}
+.links{
+    display: flex;
+    flex-flow: column wrap;
+    place-content: center;
+    background-color: hsl(34, 57%, 70%,0.2);
+    padding: 2px;
+    border-radius: 5%;
+}
+.result{
+    margin:5px 0px 5px 0px;
+    text-decoration: solid;
+}
